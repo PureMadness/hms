@@ -22,3 +22,5 @@ Homestead.json
 
 # IDE
 .idea
+.phpstorm.meta.php
+_ide_helper.php
